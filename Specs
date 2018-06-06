@@ -1,0 +1,14 @@
+Specs:
+
+1.The program should add "way" for words beginning with a vowel.(a,e,i,o,u)
+  Input: Apple
+  Output: Apppleway
+2. The program should move all consecutive consonants from beginning of word to the end, and add "ay" to the end.
+  Input: Thing
+  Output: ingThay
+3. The program should include "u" only if the inciting consonant is "q".
+  Input: Squeal
+  Output: ealSquay
+4. The program should regard a "y" at the beginning of the word as a consonant.
+  Input: Your
+  Output: ourYay
